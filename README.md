@@ -1,4 +1,4 @@
-# ama
+# AMA
 Ask me anything! Anything related to my work, routine and productivity. 
 
 # How to ask
