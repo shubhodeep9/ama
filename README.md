@@ -9,4 +9,4 @@ Ask me anything! Anything related to my work, routine and productivity.
 I'll revert back to the question.
 
 ## Ask anonymously
-Fill this [form](https://forms.gle/rc3kHfPJdh96TdEk6), I'll port it to an issue.
+Fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSfqszt3XCNvbN-6OdK9ltm9I_1HMLxGxX9vfYUGXmXE6M0RHA/viewform), I'll port it to an issue.
